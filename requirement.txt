@@ -9,7 +9,7 @@ faiss-cpu
 sentence-transformers
 dotenv
 numpy
-
+python-dotenv
 tqdm
 pandas
 langchain_groq
@@ -19,4 +19,5 @@ PyPDF2
 Pillow
 requests
 streamlit-mic-recorder
+
 
