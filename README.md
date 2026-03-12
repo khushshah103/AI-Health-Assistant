@@ -1,6 +1,5 @@
 # 🏥 AI Health Assistant
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg.svg)](https://ai-health-assistant.streamlit.app/)
 [![Groq Cloud](https://img.shields.io/badge/Powered%20by-Groq-orange)](https://groq.com/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
